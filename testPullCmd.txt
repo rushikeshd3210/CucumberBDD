@@ -1,8 +1,2 @@
 pull command.
-fs
-sd
-sf
-
-f
-gff
-g
+165161
