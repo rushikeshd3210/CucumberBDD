@@ -1,1 +1,8 @@
 pull command.
+fs
+sd
+sf
+
+f
+gff
+g
